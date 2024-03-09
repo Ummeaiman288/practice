@@ -1,0 +1,20 @@
+
+body {
+    background-color: rgba(250, 235, 215, 0.676);
+    background-attachment:fixed;
+    background-position: right;
+    background-size: contain;
+    width: 20%;
+    height: 90px;
+    background-repeat: no-repeat;
+}
+.logo{
+    position:absolute;
+    padding-right: 0%;
+    margin: 0%;
+    top: 40px;
+}
+.logo :hover{
+    background-color: rgba(255, 162, 0, 0.477);
+}
+
